@@ -39,3 +39,8 @@ a {
 a:hover {
     color: var(--text-color-darker);
 }
+
+.blog-div {
+    border: 1px solid var(--text-color);
+    margin-block: 2em;
+}
