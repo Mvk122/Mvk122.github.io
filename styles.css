@@ -84,7 +84,7 @@ pre[class*="language-"] {
 
 .token.attr-name,
 .token.boolean,
-.token.boolean.important,
+.token.boolean.important, 
 .token.number,
 .token.constant,
 .token.selector .token.attribute {
